@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">我的应用作品集</string>
+    <drawable name="clr_normal">	#C0C0C0</drawable>
+    <drawable name="clr_pressed">#ff0000</drawable>
+</resources>
